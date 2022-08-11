@@ -3,6 +3,8 @@
     - Mayank Mishra
     -  Zixiao Wang
     -   Evan Swett
+-  Presentation
+    -   https://drive.google.com/file/d/1pECV2gvW7XFGaSgOBpnJOx1bCE-VTWr2/view?usp=sharing
     
 - Question(s) sought to answer
    - The primary goal of this project is to examine the efficacy of relevant gun control laws by examining the number of violent gun incidents, injuries and deaths comparatively with the degree of gun control laws in the state at the time of the incidents.
