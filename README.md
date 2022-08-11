@@ -1,12 +1,12 @@
 # Group13_GunControl
-● Team members
-    Mayank Mishra, Zixiao Wang, Evan Swett
-    
-● Question(s) sought to answer
-  -The primary goal of this project is to examine the efficacy of relevant gun control laws by examining the number of violent gun incidents, injuries and    deaths comparatively with the degree of gun control laws in the state at the time of the incidents.
-  
-  -Predict violent gun incident rates based on laws in state. 
-
+#● Team members
+#    Mayank Mishra, Zixiao Wang, Evan Swett
+#    
+#● Question(s) sought to answer
+#  -The primary goal of this project is to examine the efficacy of relevant gun control laws by examining the number of violent gun incidents, injuries and #   deaths comparatively with the degree of gun control laws in the state at the time of the incidents.
+#  
+#  -Predict violent gun incident rates based on laws in state. 
+#
 ● Data preparation work
   Data Cleaning/PreProcessing
     -Drop NAs (features with significant NA values)
