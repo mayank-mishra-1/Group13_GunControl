@@ -45,7 +45,7 @@
   - Distribution of normalized target variables shows negative correlations
   - No strong correlations with gun laws in general
 
-● How that knowledge can be applied.
+- How that knowledge can be applied.
   - Rising gun violence in the US is an epidemic and therefore should be treated like one
   - Vote in all elections
   - Urge your state government to report all violent deaths to the National Violent Death Reporting System
