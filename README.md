@@ -16,7 +16,7 @@
 
   Data Integration
     -The first step in investigating each feature is merging the datasets by their respective keys
-    -Adding new features by year and state and population such that we have a metric for understanding the progression of gun violence per capita by state.
+    -Adding new features by year and state and population such that we have a metric for understanding the progression of gun violence per capita by state. 
 
 ● Tools used
   Jupyter Notebooks
