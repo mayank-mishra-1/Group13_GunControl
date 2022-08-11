@@ -1,4 +1,4 @@
-●  Group13_GunControl
+# Group13_GunControl
 ● Team members
     Mayank Mishra, Zixiao Wang, Evan Swett
     
