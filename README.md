@@ -23,7 +23,7 @@
 - Tools used
   - Jupyter Notebooks
     - All cleaning, integration, analysis and result visualization will be done using Jupyter Notebooks
-      - Pandas, Numpy, Sklearn, SciPy
+    - Pandas, Numpy, Sklearn, SciPy
   - Google Drive
     - All documentation will be saved within a shared folder
   - Zoom
